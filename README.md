@@ -1,4 +1,4 @@
-# The Developer
+# Ethical Hacker | Cyber Security Enthusiast | Web Developer | Mathematician
 - 👋 Hi, I’m @FelixKiprop
 - 👀 I’m interested in web application development and cyber security
 - 🌱 I’m currently good at cpp, nodejs and php
