@@ -1,4 +1,4 @@
-# Felix Kiprop
+
 ### Cyber Security Enthusiast | Mathematician
 
 Now: Principal Vulnerability Researcher at mooneyeTech(My company ToBe)
