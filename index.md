@@ -39,14 +39,14 @@ Before: A World Citizen
 ## Vulnerabilities Aiding My Research
 ## SAP Netweaver
 <br />
-CVE-2020-6371:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
-CVE-2020-26819:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
-CVE-2020-26818:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
-CVE-2020-6310:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
-CVE-2020-6299:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
+- CVE-2020-6371:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
+- CVE-2020-26819:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
+- CVE-2020-26818:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
+- CVE-2020-6310:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
+- CVE-2020-6299:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
 
 <br />
 ## Whatsapp
-CVE-2026-23866: malicious attacker force a victim into loading an arbitrary URL and thus leaking important information (headers, ip address, …). 
+- CVE-2026-23866: malicious attacker force a victim into loading an arbitrary URL and thus leaking important information (headers, ip address, …). 
 
 
