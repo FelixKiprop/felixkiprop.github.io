@@ -20,7 +20,10 @@ Before: A World Citizen
 <br />
 
 ## Selected Achievements/Awards
-
+- Thank You for API leak safaricomKE
+- Bounty awarded for PII leaks trexykenya
+- worked as KRA customer Service - Huduma Center
+- Awarded IT Degree - mount kenya University
 
 
 
@@ -34,30 +37,16 @@ Before: A World Citizen
 <br />
 
 ## Vulnerabilities Aiding My Research
+## SAP Netweaver
 <br />
+CVE-2020-6371:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
+CVE-2020-26819:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
+CVE-2020-26818:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
+CVE-2020-6310:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
+CVE-2020-6299:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
 
-### CVE-2020-6371:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
-
-	CVSS:4.3 AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
-
-
-### CVE-2020-26819:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
-
-	CVSS:4.3 AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
-
-
-### CVE-2020-26818:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
-
-	CVSS:4.3 AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
-
-
-### CVE-2020-6310:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
-
-	CVSS:4.3 AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
-
-
-### CVE-2020-6299:	SAP Netweaver Exposed Dangerous Method Information Disclosure Vulnerability
-
- CVSS:4.3 AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N
+<br />
+## Whatsapp
+CVE-2026-23866: malicious attacker force a victim into loading an arbitrary URL and thus leaking important information (headers, ip address, …). 
 
 
